@@ -39,7 +39,7 @@ export const projects = [
   {
     title: 'KimNgan',
     description: "This is a code repository for the KimNgan. A website I made for my friend for fun",
-    image: '/images/KimNgan.jpg',
+    image: '/images/KimNgan.png',
     tags: ['React', 'Netlify'],
     source: 'https://github.com/RohithReddy20/KimNgan',
     visit: 'https://kimngan22.netlify.app/',
